@@ -1,4 +1,4 @@
-# graduation
+# Graduation Project
 DEPI graduation project
 
 Project name : UniBox
