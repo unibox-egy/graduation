@@ -1,8 +1,54 @@
-# Graduation Project
-DEPI graduation project
+Project Name
+UniBox
+________________________________________
+Project Idea
+•We created UniBox to put all the essential tools
+together in one complete box.
 
-Project name : UniBox
+•No more store hopping, no more stress – just one
+simple solution.
+________________________________________
+Team Members (pentaRae)
+1- Ahmed Mahmoud 
+2- George Waled
+3- Rawan Khaled
+4- Menna Ashraf
+5- Menna Badr
+6- Ziad Hossam Eldin Abdelazim
+2- 
+________________________________________
+Work Plan
+1.	Research & Analysis
+o	Audience personas
+2.	Visual Identity
+o	Logo design
+3.	Main Designs
+o	Poster
+4.	Complementary Products
+5.	Review & Finalization
+6.	Final Presentation
+________________________________________
+Roles & Responsibilities
+•	________________________________________
 
-Presentation : https://www.canva.com/design/DAGwmZJswS4/dXF_exPnTla1rK0CK6Z3zQ/edit?utm_content=DAGwmZJswS4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-Drive file : https://drive.google.com/drive/folders/1iZSPcwsx_17frrcVyRxXExDwwA5F8DmV?usp=sharing
+•	KPIs (Key Performance Indicators) – Metrics for project success (e.g., response time, system uptime, user adoption rate).
+
+________________________________________
+
+
+Instructor 
+*
+
+________________________________________
+
+
+Project Files
+You can find the full project files here:
+--------
+________________________________________
+License
+This project is licensed under the 
+________________________________________
+•	KPIs (Key Performance Indicators) – Metrics for project success (e.g., response time, system uptime, user adoption rate).
+
