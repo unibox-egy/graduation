@@ -15,7 +15,7 @@ Team Members (pentaRae)
 4- Menna Ashraf
 5- Menna Badr
 6- Ziad Hossam Eldin Abdelazim
-2- 
+
 ________________________________________
 Work Plan
 1.	Research & Analysis
@@ -45,7 +45,7 @@ ________________________________________
 
 Project Files
 You can find the full project files here:
---------
+(https://www.canva.com/design/DAGyxVuUrNo/hOUn5fNC1ojhDbvnxdhQIg/edit?utm_content=DAGyxVuUrNo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ________________________________________
 License
 This project is licensed under the 
